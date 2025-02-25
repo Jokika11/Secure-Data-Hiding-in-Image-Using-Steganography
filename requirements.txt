@@ -1,0 +1,12 @@
+# ✅ Built-in Python libraries (No installation required)
+# These come pre-installed with Python and do not need to be installed via pip.
+os
+re
+zlib
+base64
+tkinter
+
+# ✅ External libraries (Must be installed)
+Pillow
+cryptography
+ttkthemes
